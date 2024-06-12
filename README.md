@@ -1,5 +1,9 @@
 
-## 🛒 OLIVE UNG 🛒
+# 🛒 OLIVE UNG 🛒
+
+![image](https://github.com/MEONJIYEON/shoppingMall/assets/108587227/c5c7b002-8455-45a8-aabc-79b9b39f7f69)
 
 
-<img src= "https://github.com/MEONJIYEON/shoppingMall/issues/1#issue-2347816660" width="500" height="500" />
+### ✔ 웹 소개
+#### 이 웹사이트는 올리브영을 참고하여 만들었습니다! 
+사용자들이 온라인에서 제품을 검색하고 구매할 수 있는 온라인 쇼핑몰입니다.  올리브영과 동일한 디자인과 기능을 가지고 있으며, 관리자를 위한 관리자 패널도 구현되어 있습니다. 이 웹사이트는 올리브영의 디자인과 기능을 모방하여 구현되었으며, 온라인 쇼핑몰을 운영하고자 하는 사람들에게 사용되기 위해 만들어졌습니다.
