@@ -12,6 +12,10 @@
 이 프로젝트의 목적은 사용자들에게 쉽고 편리한 온라인 쇼핑 경험을 제공하는 것입니다. 사용자들은 다양한 제품을 검색하고, 상세 정보를 확인하며, 장바구니에 담아 간편하게 구매할 수 있습니다.
 관리자 패널은 상품 관리, 주문 관리, 회원 관리 등 다양한 기능을 제공합니다. 이를 통해 관리자는 웹사이트의 콘텐츠를 효율적으로 관리하고, 주문 처리를 원활하게 할 수 있습니다.
 
+
+### ⭐ Tool
+<img src="https://img.shields.io/badge/eclipse IDE-2C2255?style=for-the-badge&logo=eclipse IDE&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
 ### ✔ 주요 기능 - 회원
 #### - 쿠폰& 멤버십 관리: 일정기간마다 쿠폰 발급
 <img src="https://github.com/MEONJIYEON/shoppingMall/assets/108587227/e966fc87-d9f5-4fe7-b496-62b291677ee9" width="500"/>
