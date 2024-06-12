@@ -22,4 +22,7 @@
 #### - 리뷰
  <img src="https://github.com/MEONJIYEON/shoppingMall/assets/108587227/cffdc0eb-bb2f-42a8-a65a-f70b74ea17d5" width="500" />
 
+#### - Q&A: 관리자와 연동하여 답변 가능
+<img src="https://github.com/MEONJIYEON/shoppingMall/assets/108587227/5eba9a15-6b53-4e77-a19f-347306cc5406" width="500" />
 
+#### - 검색, 정렬, 랭킹
