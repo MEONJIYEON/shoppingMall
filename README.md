@@ -19,3 +19,5 @@
 - 장바구니
 <img src="https://github.com/MEONJIYEON/shoppingMall/assets/108587227/985eabaa-e99d-49b5-9f74-84cd1576d1f6" width="500" />
 
+- 리뷰
+<img src="https://github.com/MEONJIYEON/shoppingMall/assets/108587227/cffdc0eb-bb2f-42a8-a65a-f70b74ea17d5" width="500" />
