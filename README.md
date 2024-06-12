@@ -13,13 +13,13 @@
 관리자 패널은 상품 관리, 주문 관리, 회원 관리 등 다양한 기능을 제공합니다. 이를 통해 관리자는 웹사이트의 콘텐츠를 효율적으로 관리하고, 주문 처리를 원활하게 할 수 있습니다.
 
 ### ✔ 주요 기능
-- 쿠폰& 멤버십 관리
+#### - 쿠폰& 멤버십 관리: 일정기간마다 쿠폰 발급
 <img src="https://github.com/MEONJIYEON/shoppingMall/assets/108587227/e966fc87-d9f5-4fe7-b496-62b291677ee9" width="500"/>
 
-- 장바구니
+#### - 장바구니
 <img src="https://github.com/MEONJIYEON/shoppingMall/assets/108587227/985eabaa-e99d-49b5-9f74-84cd1576d1f6" width="500" />
 
-- 리뷰
-<img src="https://github.com/MEONJIYEON/shoppingMall/assets/108587227/cffdc0eb-bb2f-42a8-a65a-f70b74ea17d5" width="500" />
+#### - 리뷰
+ <img src="https://github.com/MEONJIYEON/shoppingMall/assets/108587227/cffdc0eb-bb2f-42a8-a65a-f70b74ea17d5" width="500" />
 
-- 상세 화면
+
