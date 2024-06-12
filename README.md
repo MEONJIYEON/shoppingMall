@@ -33,15 +33,15 @@
 ### ✔ 주요 기능 - 관리자
 <img src="https://github.com/MEONJIYEON/shoppingMall/assets/108587227/92b1472b-cc54-4eb2-a0d3-4d6cbe9078af" width="500" />
 
-#### - 상품: 등록, 수정, 삭제
+#### - 상품 관리: 등록, 수정, 삭제
 <img src="https://github.com/MEONJIYEON/shoppingMall/assets/108587227/3ea147c3-7587-4277-a6d7-bdbad616c022" width="500" />
 
-#### - 주문
+#### - 주문 관리
 <img src="https://github.com/MEONJIYEON/shoppingMall/assets/108587227/1dc526ef-cc5a-4587-a69c-5b244ea412d6" width="500" />
 
-#### - 회원: 수정, 삭제
+#### - 회원 관리: 수정, 삭제
 <img src="https://github.com/MEONJIYEON/shoppingMall/assets/108587227/ec58a84a-73fb-41b2-8a85-8e6202328111" width="500" />
 
-#### - 게시판: 답변, 삭제
+#### - 게시판 관리: 답변, 삭제
 <img src="https://github.com/MEONJIYEON/shoppingMall/assets/108587227/f57334d7-bbc4-45ef-a7e4-af761c61fdc9" width="500" />
 
