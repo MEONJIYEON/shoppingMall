@@ -21,3 +21,5 @@
 
 - 리뷰
 <img src="https://github.com/MEONJIYEON/shoppingMall/assets/108587227/cffdc0eb-bb2f-42a8-a65a-f70b74ea17d5" width="500" />
+
+- 상세 화면
