@@ -40,3 +40,5 @@
 <img src="https://github.com/MEONJIYEON/shoppingMall/assets/108587227/1dc526ef-cc5a-4587-a69c-5b244ea412d6" width="500" />
 
 #### - 회원
+
+#### - 게시판
