@@ -37,5 +37,6 @@
 <img src="https://github.com/MEONJIYEON/shoppingMall/assets/108587227/3ea147c3-7587-4277-a6d7-bdbad616c022" width="500" />
 
 #### - 주문
+<img src="https://github.com/MEONJIYEON/shoppingMall/assets/108587227/1dc526ef-cc5a-4587-a69c-5b244ea412d6" width="500" />
 
 #### - 회원
